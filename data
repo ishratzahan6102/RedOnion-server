@@ -1,0 +1,146 @@
+[
+    {
+        "title": "Medu vada",
+        "category": "breakfast",
+        "defaultImage": "https://i.ibb.co/RHqXvzG/breakfast1.png",
+        "images": [{}] ,
+        "price": 30.22,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Misal pav.",
+        "category": "breakfast",
+        "defaultImage": "https://i.ibb.co/qyj1Mn6/breakfast2.png",
+        "images": [{}] ,
+        "price": 20.25,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Pan de queso",
+        "category": "breakfast",
+        "defaultImage": "https://i.ibb.co/km7ZcWh/breakfast3.png",
+        "images": [{}] ,
+        "price": 60.25,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Salteñas",
+        "category": "breakfast",
+        "defaultImage": "https://i.ibb.co/jyHCHLF/breakfast4.png",
+        "images": [{}] ,
+        "price": 70.28,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Nasi kandar",
+        "category": "breakfast",
+        "defaultImage": "https://i.ibb.co/sC59VR1/breakfast5.png",
+        "images": [{}] ,
+        "price": 30.24,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Penang",
+        "category": "breakfast",
+        "defaultImage": "https://i.ibb.co/61BmdPg/breakfast6.png",
+        "images": [{}] ,
+        "price": 90.25,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Tarte Tatin",
+        "category": "lunch",
+        "defaultImage": "https://i.ibb.co/yRyZrNH/lunch1.png",
+        "images": [{}] ,
+        "price": 10.27,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Panera",
+        "category": "lunch",
+        "defaultImage": "https://i.ibb.co/MB8f8p7/lunch2.png",
+        "images": [{}] ,
+        "price": 50.62,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Minetta Tavern",
+        "category": "lunch",
+        "defaultImage": "https://i.ibb.co/0BGjhkD/lunch3.png",
+        "images": [{}] ,
+        "price": 40.22,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Louisiana",
+        "category": "lunch",
+        "defaultImage": "https://i.ibb.co/cvxPzPd/lunch4.png",
+        "images": [{}] ,
+        "price": 20.42,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Breaded Pork Tenderloin",
+        "category": "lunch",
+        "defaultImage": "https://i.ibb.co/P6qDw43/lunch5.png",
+        "images": [{}] ,
+        "price": 70.12,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Anchor Bar",
+        "category": "lunch",
+        "defaultImage": "https://i.ibb.co/3TLmk3P/lunch6.png",
+        "images": [{}] ,
+        "price": 90.29,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Soupe à l’oignon",
+        "category": "dinner",
+        "defaultImage": "https://i.ibb.co/8DrrNLw/dinner1.png",
+        "images": [{}] ,
+        "price": 30.32,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": " Coq au vin",
+        "category": "dinner",
+        "defaultImage": "https://i.ibb.co/jz1M5cD/dinner2.png",
+        "images": [{}] ,
+        "price": 90.72,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Cassoulet",
+        "category": "dinner",
+        "defaultImage": "https://i.ibb.co/02hgcNw/dinner3.png",
+        "images": [{}] ,
+        "price": 20.26,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Bœuf bourguignon",
+        "category": "dinner",
+        "defaultImage": "https://i.ibb.co/d43vkS8/dinner4.png",
+        "images": [{}] ,
+        "price": 50.22,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Flamiche",
+        "category": "dinner",
+        "defaultImage": "https://i.ibb.co/ZWgmr1C/dinner5.png",
+        "images": [{}] ,
+        "price": 40.3,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    },
+    {
+        "title": "Salade Niçoise",
+        "category": "dinner",
+        "defaultImage": "https://i.ibb.co/hX0yKCf/dinner6.png",
+        "images": [{}] ,
+        "price": 70.2,
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis sapien massa. Sed in enim in justo pulvinar tempus. Sed ac tristique sapien, vitae accumsan lectus. Vestibulum nec lorem ornare, volutpat neque eu, blandit ante. Aliquam suscipit metus feugiat, commodo sem varius, mattis nulla. Nam egestas nibh a lorem accumsan porttitor. Maecenas ipsum metus, fermentum scelerisque varius in, rutrum eu dui. Etiam sit amet nibh congue, ullamcorper lorem ac, molestie ligula. In ultrices rhoncus metus, at hendrerit urna porttitor at. Vivamus volutpat interdum iaculis. Suspendisse et enim eros."
+    }
+]
