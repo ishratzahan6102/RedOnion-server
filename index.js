@@ -42,12 +42,20 @@ async function run() {
       res.send(meals)
     })
     
-    app.get('/meals/:mealId', async (req, res) => {
+    app.get('/meal/:mealId', async (req, res) => {
       const {mealId} = req.params
-      console.log({mealId})
-      const meals = await Meals.findOne({_id: ObjectId(mealId)})
-      res.send(meals)
+      const meal = await Meals.findOne({_id: new ObjectId(mealId)})
+      res.send(meal)
     })
+
+    
+    // : Previous system
+    // app.get('/meal/:mealId', async(req, res) => {
+    //   const id = req.params.mealId
+    //   const query = { _id: new ObjectId(id)}
+    //   const meal = await Meals.findOne(query)
+    //   res.send(meal)
+    // })
 
   }
   finally {
